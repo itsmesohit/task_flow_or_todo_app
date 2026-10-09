@@ -51,6 +51,7 @@ npm run build
 ```bash
 npm run preview
 ```
+Open your browser to `http://localhost:4173`.
 
 ---
 
